@@ -39,6 +39,10 @@ int main(void) {
     return 0;
 }
 
+````
+gcc -o program program.c -lwiringPi -lncurses
+sudo ./program
+````
 
 ## Shematics
 ![Ekran görüntüsü 2024-05-10 094828](https://github.com/muhammeddincmdx/Mech3ComputerAidedProductionProject/assets/54439858/c2fec999-0215-414e-8b2c-6ea3c973b231)
