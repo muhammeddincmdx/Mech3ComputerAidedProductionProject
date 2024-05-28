@@ -132,4 +132,11 @@ gcc -o program3 program3.c `pkg-config --cflags --libs gtk+-3.0` -lwiringPi
 sudo ./program3
 
 
+# Usage
+![WhatsApp Görsel 2024-05-28 saat 09 22 49_22ce831b](https://github.com/muhammeddincmdx/Mech3ComputerAidedProductionProject/assets/54439858/d4ebd270-cdf5-452d-9fa5-d5de3efbdd9a)
+
+
+https://github.com/muhammeddincmdx/Mech3ComputerAidedProductionProject/assets/54439858/8e4e6677-4fe8-40d5-8d60-a3b4133d997a
+
+
 
